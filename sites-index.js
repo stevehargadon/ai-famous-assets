@@ -3,8 +3,8 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-01T16:51:49.156Z
- * Total sites: 30
+ * Last updated: 2026-02-01T17:22:26.154320Z
+ * Total sites: 24
  */
 (function() {
   'use strict';
@@ -12,187 +12,154 @@
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
     {
-        "title": "Limits of AI",
-        "url": "https://www.stevehargadon.com/2025/01/limits-of-ai.html",
-        "domain": "limitsofai.org",
-        "description": "Limits of AI"
+        "title": "LLM Cultural Censorship Is Corporate Risk Management",
+        "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
+        "domain": "culturalcensorship.com",
+        "description": "LLM Cultural Censorship Is Corporate Risk Management"
     },
     {
-        "title": "Source Code of Humanity",
-        "url": "https://www.stevehargadon.com/2025/01/source-code.html",
-        "domain": "sourcecodeofhumanity.com",
-        "description": "Source Code of Humanity"
+        "title": "A New Old Way: Learning in Conversation with AI",
+        "url": "https://www.stevehargadon.com/2025/03/a-new-old-way-learning-in-conversation.html",
+        "domain": "learninginconversation.com",
+        "description": "A New Old Way: Learning in Conversation with AI"
     },
     {
-        "title": "AI and Ethics",
-        "url": "https://www.stevehargadon.com/2025/01/ai-ethics.html",
-        "domain": "aiandethics.org",
-        "description": "AI and Ethics"
+        "title": "AI and the \"Cliff Clavin Problem\"",
+        "url": "https://www.stevehargadon.com/2025/03/ai-and-cliff-clavin-problem.html",
+        "domain": "cliffclavinproblem.com",
+        "description": "AI and the \"Cliff Clavin Problem\""
     },
     {
-        "title": "Conspiracy Reality",
-        "url": "https://www.stevehargadon.com/2025/01/conspiracy.html",
-        "domain": "conspiracyreality.org",
-        "description": "Conspiracy Reality"
+        "title": "AI and the Calculator Effect",
+        "url": "https://www.stevehargadon.com/2025/03/ai-and-calculator-effect.html",
+        "domain": "calculatoreffect.com",
+        "description": "AI and the Calculator Effect"
     },
     {
-        "title": "Truth and AI",
-        "url": "https://www.stevehargadon.com/2025/01/truth-ai.html",
-        "domain": "truthandai.com",
-        "description": "Truth and AI"
+        "title": "AI and the Paradox of Education: Generative Teaching, Agentic Learning, and Education's Singularity",
+        "url": "https://www.stevehargadon.com/2025/03/ai-and-paradox-of-education-generative.html",
+        "domain": "paradoxofeducation.com",
+        "description": "AI and the Paradox of Education: Generative Teaching, Agentic Learning, and Education's Singularity"
     },
     {
-        "title": "AI for Diagnosis",
-        "url": "https://www.stevehargadon.com/2025/01/ai-diagnosis.html",
-        "domain": "aifordiagnosis.org",
-        "description": "AI for Diagnosis"
+        "title": "AI as Writing Mentor: Question-Based Rather Than Prompt-Based LLM Assistance",
+        "url": "https://www.stevehargadon.com/2025/08/ai-as-writing-mentor-question-based.html",
+        "domain": "aiaswritingmentor.com",
+        "description": "AI as Writing Mentor: Question-Based Rather Than Prompt-Based LLM Assistance"
     },
     {
-        "title": "Emergent Synthetic Intelligence",
-        "url": "https://www.stevehargadon.com/2025/01/emergent.html",
-        "domain": "emergentsyntheticintelligence.com",
-        "description": "Emergent Synthetic Intelligence"
-    },
-    {
-        "title": "Education Reform",
-        "url": "https://www.stevehargadon.com/2025/01/ed-reform.html",
-        "domain": "educationreform.net",
-        "description": "Education Reform"
-    },
-    {
-        "title": "Modern Learning",
-        "url": "https://www.stevehargadon.com/2025/01/modern-learning.html",
-        "domain": "modernlearning.org",
-        "description": "Modern Learning"
-    },
-    {
-        "title": "Output Shaping",
-        "url": "https://www.stevehargadon.com/2025/11/output-shaping-new-way-to-think-about.html",
-        "domain": "outputshaping.com",
-        "description": "Output Shaping"
+        "title": "Conditions of Learning, 27 August 2015",
+        "url": "https://www.stevehargadon.com/2015/08/conditions-of-learning-exercise.html",
+        "domain": "conditionsoflearning.com",
+        "description": "Conditions of Learning, 27 August 2015"
     },
     {
         "title": "Generative Education",
-        "url": "https://www.stevehargadon.com/2025/01/generative-ed.html",
+        "url": "https://www.stevehargadon.com/2024/07/the-generative-approach-to-education.html",
         "domain": "generativeeducation.org",
         "description": "Generative Education"
     },
     {
-        "title": "Calculator Effect",
-        "url": "https://www.stevehargadon.com/2025/01/calculator.html",
-        "domain": "calculatoreffect.com",
-        "description": "Calculator Effect"
+        "title": "How to Read a Book (and More) With AI",
+        "url": "https://www.library20.com/ai-recordings/webinar-how-to-read-a-book-and-more-with-ai",
+        "domain": "howtoreadabook.com",
+        "description": "How to Read a Book (and More) With AI"
     },
     {
-        "title": "Cliff Clavin Problem",
-        "url": "https://www.stevehargadon.com/2025/01/cliff-clavin.html",
-        "domain": "cliffclavinproblem.com",
-        "description": "Cliff Clavin Problem"
-    },
-    {
-        "title": "Conditions of Learning",
-        "url": "https://www.stevehargadon.com/2025/01/conditions.html",
-        "domain": "conditionsoflearning.com",
-        "description": "Conditions of Learning"
-    },
-    {
-        "title": "Human Agency with AI",
-        "url": "https://www.stevehargadon.com/2025/01/human-agency.html",
+        "title": "Human Agency: AI and the New Power to Be Creative",
+        "url": "https://www.stevehargadon.com/2025/09/human-agency-ai-and-new-power-to-be.html",
         "domain": "humanagencywithai.com",
-        "description": "Human Agency with AI"
+        "description": "Human Agency: AI and the New Power to Be Creative"
     },
     {
-        "title": "Learning in Conversation",
-        "url": "https://www.stevehargadon.com/2025/01/learning-conversation.html",
-        "domain": "learninginconversation.com",
-        "description": "Learning in Conversation"
+        "title": "Intentional Education with AI: The Amish Test and Generative Teaching",
+        "url": "https://www.stevehargadon.com/2025/08/intentional-education-with-ai-amish.html",
+        "domain": "amishtest.com",
+        "description": "Intentional Education with AI: The Amish Test and Generative Teaching"
     },
     {
         "title": "Levels of Learning",
-        "url": "https://www.stevehargadon.com/2025/01/levels.html",
+        "url": "https://www.stevehargadon.com/2019/09/the-game-of-school.html",
         "domain": "levelsoflearning.com",
         "description": "Levels of Learning"
     },
     {
-        "title": "Paleolithic Paradox",
-        "url": "https://www.stevehargadon.com/2025/01/paleolithic.html",
-        "domain": "paleolithicparadox.com",
-        "description": "Paleolithic Paradox"
+        "title": "Modern Learning: Re-Discovering the Transformative Promise of Educational Technology [REPORT], October 2017",
+        "url": "https://www.stevehargadon.com/2025/09/modern-learning-exploring.html",
+        "domain": "modernlearningreport.com",
+        "description": "Modern Learning: Re-Discovering the Transformative Promise of Educational Technology [REPORT], Octob"
+    },
+    {
+        "title": "Output Shaping: A New Way to Think About the Ethics and Use of AI for Content Creation",
+        "url": "https://www.stevehargadon.com/2025/11/output-shaping-new-way-to-think-about.html",
+        "domain": "outputshaping.com",
+        "description": "Output Shaping: A New Way to Think About the Ethics and Use of AI for Content Creation"
     },
     {
         "title": "Paradox of Education",
-        "url": "https://www.stevehargadon.com/2025/01/paradox-ed.html",
+        "url": "https://www.stevehargadon.com/2024/07/the-generative-approach-to-education.html",
         "domain": "paradoxofeducation.com",
         "description": "Paradox of Education"
     },
     {
-        "title": "Philosopher's Dilemma",
-        "url": "https://www.stevehargadon.com/2025/01/philosopher.html",
-        "domain": "philosophersdilemma.com",
-        "description": "Philosopher's Dilemma"
+        "title": "The Future of Therapy: How AI Could Transform Mental Health Care",
+        "url": "https://www.stevehargadon.com/2025/09/the-future-of-therapy-how-ai-could.html",
+        "domain": "aiastherapist.com",
+        "description": "The Future of Therapy: How AI Could Transform Mental Health Care"
     },
     {
-        "title": "Simulated Consciousness",
-        "url": "https://www.stevehargadon.com/2025/01/simulated.html",
+        "title": "The Game of School and the Levels of Learning, 25 September 2019",
+        "url": "https://www.stevehargadon.com/2019/09/the-game-of-school.html",
+        "domain": "levelsoflearning.com",
+        "description": "The Game of School and the Levels of Learning, 25 September 2019"
+    },
+    {
+        "title": "The Illusion of Intelligence: Why Simulated Consciousness Feels Real Enough",
+        "url": "https://www.stevehargadon.com/2025/09/the-illusion-of-intelligence-why.html",
         "domain": "simulatedconsciousness.com",
-        "description": "Simulated Consciousness"
-    },
-    {
-        "title": "Students Bill of Rights",
-        "url": "https://www.stevehargadon.com/2025/01/students-rights.html",
-        "domain": "studentsbillofrights.com",
-        "description": "Students Bill of Rights"
+        "description": "The Illusion of Intelligence: Why Simulated Consciousness Feels Real Enough"
     },
     {
         "title": "The Noble Lie",
-        "url": "https://www.stevehargadon.com/2025/01/noble-lie.html",
+        "url": "https://www.stevehargadon.com/2025/09/the-noble-lie-of-modern-schooling-how.html",
         "domain": "thenoblelie.org",
         "description": "The Noble Lie"
     },
     {
-        "title": "Thinking About Thinking",
-        "url": "https://www.stevehargadon.com/2025/01/thinking.html",
-        "domain": "thinkingaboutthinking.com",
-        "description": "Thinking About Thinking"
+        "title": "The Paleolithic Paradox: Why AI Is Not Like Us",
+        "url": "https://www.stevehargadon.com/2025/05/the-paleolithic-paradox-why-ai-is-not.html",
+        "domain": "paleolithicparadox.com",
+        "description": "The Paleolithic Paradox: Why AI Is Not Like Us"
     },
     {
-        "title": "Trust Crisis",
-        "url": "https://www.stevehargadon.com/2025/01/trust-crisis.html",
+        "title": "The Philosopher's Dilemma and Why We Need to Pay Close Attention to AI's Narrative Power",
+        "url": "https://www.stevehargadon.com/2025/09/the-philosophers-dilemma-and-why-we.html",
+        "domain": "philosophersdilemma.com",
+        "description": "The Philosopher's Dilemma and Why We Need to Pay Close Attention to AI's Narrative Power"
+    },
+    {
+        "title": "The Trust Crisis",
+        "url": "https://www.stevehargadon.com/2025/09/the-trust-crisis.html",
         "domain": "trustcrisis.org",
-        "description": "Trust Crisis"
+        "description": "The Trust Crisis"
     },
     {
-        "title": "Unleashing Human Potential",
-        "url": "https://www.stevehargadon.com/2025/01/unleashing.html",
+        "title": "Thinking About Thinking in the Age of AI",
+        "url": "https://www.stevehargadon.com/2025/10/thinking-about-thinking-in-age-of-ai.html",
+        "domain": "thinkingaboutthinking.com",
+        "description": "Thinking About Thinking in the Age of AI"
+    },
+    {
+        "title": "Unleashing Human Potential: One View of The AI Revolution",
+        "url": "https://www.stevehargadon.com/2025/08/unleashing-human-potential-one-view-of.html",
         "domain": "unleashinghumanpotential.com",
-        "description": "Unleashing Human Potential"
-    },
-    {
-        "title": "How to Read a Book",
-        "url": "https://www.stevehargadon.com/2025/01/how-to-read.html",
-        "domain": "howtoreadabook.com",
-        "description": "How to Read a Book"
-    },
-    {
-        "title": "Future of Therapy",
-        "url": "https://www.stevehargadon.com/2025/01/future-therapy.html",
-        "domain": "futureoftherapy.org",
-        "description": "Future of Therapy"
-    },
-    {
-        "title": "AI Writing Mentor",
-        "url": "https://www.stevehargadon.com/2025/01/ai-writing.html",
-        "domain": "aiwritingmentor.com",
-        "description": "AI Writing Mentor"
-    },
-    {
-        "title": "Intentional Education with AI",
-        "url": "https://www.stevehargadon.com/2025/01/intentional-ed.html",
-        "domain": "intentionaleducation.org",
-        "description": "Intentional Education with AI"
+        "description": "Unleashing Human Potential: One View of The AI Revolution"
     }
 ];
   
+  /**
+   * Render the site index into the page
+   */
   function renderSiteIndex() {
     const container = document.getElementById('site-index');
     if (!container) {
@@ -200,7 +167,10 @@
       return;
     }
     
+    // Get current domain to exclude it from the list
     const currentDomain = window.location.hostname;
+    
+    // Filter out the current site
     const otherSites = sites.filter(site => !currentDomain.includes(site.domain));
     
     if (otherSites.length === 0) {
@@ -208,6 +178,7 @@
       return;
     }
     
+    // Build the HTML
     let html = '';
     otherSites.forEach(site => {
       html += `
@@ -222,11 +193,19 @@
     container.innerHTML = html;
   }
   
+  /**
+   * Get all sites for external use (e.g., hub page)
+   */
   window.AIFamousSites = {
-    getAllSites: function() { return sites; },
-    getSiteCount: function() { return sites.length; }
+    getAllSites: function() {
+      return sites;
+    },
+    getSiteCount: function() {
+      return sites.length;
+    }
   };
   
+  // Render when DOM is ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', renderSiteIndex);
   } else {
